@@ -1,4 +1,4 @@
-package com.scala.test
+package com.scala.test.condition
 
 /**
   * 条件操作

@@ -1,4 +1,4 @@
-package com.scala.test
+package com.scala.test.calc
 
 /**
   * 赋值运算

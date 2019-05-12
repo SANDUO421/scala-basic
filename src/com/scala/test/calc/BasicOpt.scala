@@ -1,4 +1,4 @@
-package com.scala.test
+package com.scala.test.calc
 
 /**
   * Scala 基础测试类
